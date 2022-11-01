@@ -14,8 +14,6 @@ def prediction(lst):
 
 @app.route('/', methods=['POST', 'GET'])
 def index():
-    # return "Hello World"
-    # create gender list
     Male = 0
     Female = 0
 
@@ -101,28 +99,13 @@ def index():
         traverse_list(ManagerName_list, ManagerName)
         traverse_list(RecruitmentSource_list, RecruitmentSource)
 
-        # for item in company_list:
-        #     if item == company:
-        #         feature_list.append(1)
-        #     else:
-        #         feature_list.append(0)
-
         print(feature_list)
         pred_value = prediction(feature_list)
         print(pred_value)
-    # return render_template('index.html')
 
     return render_template('index.html', pred_value=pred_value)
 
 
-# @app.route('/', methods=['GET'])
-# def index_get():
-#     return render_template('home.html', pred_value=-1)
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-    
-# @app.route('/', methods=['POST', 'GET'])
-# def index():
-#     return "Hello World"
