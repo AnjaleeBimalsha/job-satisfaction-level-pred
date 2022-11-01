@@ -12,10 +12,6 @@ def prediction(lst):
     pred_value = model.predict([lst])
     return pred_value
 
-@app.route('/')
-def home():
-    return "Hello World"
-
 
 @app.route('/predict', methods=['POST',"GET"])
 def predict():
