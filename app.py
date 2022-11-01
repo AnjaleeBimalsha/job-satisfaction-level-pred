@@ -99,9 +99,8 @@ def index():
         traverse_list(ManagerName_list, ManagerName)
         traverse_list(RecruitmentSource_list, RecruitmentSource)
 
-        print(feature_list)
+        # print(feature_list)
         pred_value = prediction(feature_list)
-        print(pred_value)
 
     return render_template('index.html', pred_value=pred_value)
 
