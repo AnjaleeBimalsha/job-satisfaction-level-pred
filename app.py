@@ -12,9 +12,8 @@ def prediction(lst):
     pred_value = model.predict([lst])
     return pred_value
 
-
-@app.route('/predict', methods=['POST',"GET"])
-def predict():
+@app.route('/', methods=['POST', 'GET'])
+def index():
     Male = 0
     Female = 0
 
@@ -102,7 +101,7 @@ def predict():
 
         # print(feature_list)
         pred_value = prediction(feature_list)
-        print(pred_value)
+
     return render_template('index.html', pred_value=pred_value)
 
 
