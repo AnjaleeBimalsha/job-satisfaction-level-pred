@@ -1,17 +1,9 @@
 # FDM_project
 
 Sri Lanka Institute of Information Technology
-
-
-
-
-
-
 Fundamentals of Data Mining - IT3051
 Group Project
 Statement Of Work (SOW)
-
-
 
 Group Number	: G29
 Student Number	Name
@@ -20,21 +12,6 @@ IT20645748 	Jayasekara J.A.Y.V
 IT20621292 	Gunasekara P.G.A.I.P
 IT20609962 	Hettiarachchi A.B
 IT20621056	Jayasekara H.L 
-
-
-
- 
-Table of Contents
-1.	Background	3
-2.	Scope of Work	4
-3.	Activities	5
-4.	Approach	6
-5.	Deliverables	7
-6.	Project Plan & Timeline	8
-7.	Assumptions	9
-8.	Project Team, Roles and Responsibilities	10
-9.	References	11
-
 
 
 	 
@@ -91,11 +68,19 @@ Server/Hosting	Heroku
 
 	Note	: Technologies and algorithms are subject to change.
  
-5.	Deliverables 
-Delivery	Description
-Statement of Work (SOW) Report	The report consists of key information on the project background, problem definition, scope of work, tools and techniques utilized, activities planed along with timeline and deliverables, also the tasks performed by each member. 
-Data Mining Models	The model that would perform the tasks (predictive or segmentation) for the selected data sets. This may be a file consisting only the code relevant to the models developed. 
-Web Application	Hosted web application that could be assessed by the users to perform the operations. The model(s) are integrated to the web application.
-Video	Demonstration of the features of the application.
-Final Report	The report consists of information on project domain, solution developed and test cases. 
+
+
+
+5. References
+How to Predict Employee Performance and Satisfaction by Wisconsin School of Business:
+https://business.wisc.edu/news/how-to-predict-employee-performance-and-satisfaction/
+
+Scikit-learn Doc:
+https://scikit-learn.org/stable/
+
+Django Doc:
+https://docs.djangoproject.com/en/4.1/
+
+Prediction ideas:
+https://www.softwareadvice.com/resources/the-hr-department-of-2020/
 
