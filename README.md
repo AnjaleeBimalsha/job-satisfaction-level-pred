@@ -23,6 +23,7 @@ In the current world, the business has been emerged towards the competitive mark
 
 
 Problem Domain
+
 Ensuring employee satisfaction is an important part of many HR roles. It’s one thing to talk about increasing employee satisfaction, but it’s another to make this goal a reality. This may occur when the company does not offer a competitive salary. But there may be many other related things that impact their dissatisfaction. Therefore, our motive is to help companies to identify such counterparties based on past and present employee records. To aid this, we will be using a dataset that consists of past and present records of employees who have given a satisfaction value about their employment. The dataset consists of features such as salary, age, department, manager, marital status, etc.
 Dataset:  https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
  
@@ -30,7 +31,8 @@ Dataset:  https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
  
  
  
-2.	Scope of Work 
+2.Scope of Work
+
 Primary scope of this project is to predict the job satisfaction of the employees and the
 reasons to the low job satisfaction/dissatisfaction. By considering the nature of the problem
 it is evident that we could use classification techniques to build an effective model to help
@@ -42,6 +44,7 @@ for the demonstration purpose to the end users or for stakeholders with interest
 explaining the processes will be submitted at the end of assignment along with a report.
  
 3.	Activities 
+
 Activity No	Activity
 01	Select a domain, define the problem statement, and identify datasets relevant to the problem.
 02	Segregate the problem as per its nature and select appropriate data mining techniques.
@@ -65,6 +68,7 @@ Activity No	Activity
 
  
 4.	Approach 
+
 Purpose	Tools/Methodology
 Development Methodology	Agile Methodology
 Datasets	From Kaggle
