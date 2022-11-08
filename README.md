@@ -1,16 +1,23 @@
 # FDM_project
 
 Sri Lanka Institute of Information Technology
+
 Fundamentals of Data Mining - IT3051
+
 Group Project
-Statement Of Work (SOW)
 
 Group Number	: G29
+
 Student Number	Name
+
 IT20663568	Perera A.P.S.S 
+
 IT20645748 	Jayasekara J.A.Y.V
+
 IT20621292 	Gunasekara P.G.A.I.P
+
 IT20609962 	Hettiarachchi A.B
+
 IT20621056	Jayasekara H.L 
 
 
