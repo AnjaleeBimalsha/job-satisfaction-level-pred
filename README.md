@@ -20,10 +20,16 @@ IT20621056	Jayasekara H.L
 The Banking Sector
 In the current world, the business has been emerged towards the competitive market that has urged the urgency to develop those practices that increase the efficiency and effectiveness of individuals considerably. Therefore, human resource management practices are highly concerned and become effective to be focused. Human resources (HR) is the division of a business that is charged with finding, screening, recruiting, and training job applicants. It also administers employee-benefit programs. HR plays a key role in helping companies deal with a fast-changing business environment and a greater demand for quality employees. An HR department is an essential component of any business, regardless of an organization's size. It is tasked with maximizing employee productivity and protecting the company from any issues that may arise within the workforce. Human resource management involves providing the services to facilitate working culture and develop satisfaction among the employees. It is suggested that organization profitability and growth in the market is directly associated with the human resource management efficiency and effectiveness in the organization. For this assignment, the group will be focusing on predicting the job satisfaction level of the employees and reasons tend to low job satisfaction.
 
+
+
 Problem Domain
 Ensuring employee satisfaction is an important part of many HR roles. It’s one thing to talk about increasing employee satisfaction, but it’s another to make this goal a reality. This may occur when the company does not offer a competitive salary. But there may be many other related things that impact their dissatisfaction. Therefore, our motive is to help companies to identify such counterparties based on past and present employee records. To aid this, we will be using a dataset that consists of past and present records of employees who have given a satisfaction value about their employment. The dataset consists of features such as salary, age, department, manager, marital status, etc.
 Dataset:  https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
  
+ 
+ 
+ 
+ 
 2.	Scope of Work 
 Primary scope of this project is to predict the job satisfaction of the employees and the
 reasons to the low job satisfaction/dissatisfaction. By considering the nature of the problem
@@ -54,6 +60,9 @@ Activity No	Activity
 
 
 
+
+
+
  
 4.	Approach 
 Purpose	Tools/Methodology
@@ -68,6 +77,9 @@ Server/Hosting	Heroku
 
 	Note	: Technologies and algorithms are subject to change.
  
+
+
+
 
 
 
